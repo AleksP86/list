@@ -1,0 +1,9 @@
+#index:
+#    path: /
+#    controller: App\Controller\ArticleController::homepage
+
+#pages:
+#  path: /page/{page_id}
+#  controller: App\Controller\ArticleController::show
+#  defaults:
+#    page: 1
